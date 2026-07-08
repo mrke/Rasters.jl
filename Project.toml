@@ -1,6 +1,6 @@
 name = "Rasters"
 uuid = "a3a2b9e3-a471-40c9-b274-f788e487c689"
-version = "0.15.0"
+version = "0.15.1"
 authors = ["Rafael Schouten <rafaelschouten@gmail.com>"]
 
 [deps]
